@@ -1,8 +1,8 @@
 # EdgeLedger Finance Website
 Welcome to the EdgeLedger Finance Website repository! This project is a an elegant website built using HTML, CSS, and a bit of JavaScript, showcasing business solutions and services.
 <br>
+<br>
 ![Alt Text](Screenshot%202023-06-29%20at%203.06.01%20PM.png)
-
 <br>
 <br>
 ## Features
